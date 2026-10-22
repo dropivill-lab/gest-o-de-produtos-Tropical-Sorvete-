@@ -1,0 +1,6 @@
+{
+  "name": "GestãoPro - Sistema Integrado de Gestão e Rastreabilidade",
+  "description": "Sistema completo de gestão comercial e industrial com controle de estoque por lotes, rastreabilidade, pedidos com limites de crédito, financeiro com cobrança WhatsApp e alertas automáticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
